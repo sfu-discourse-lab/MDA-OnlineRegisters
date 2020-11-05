@@ -6,7 +6,7 @@
 
 This repository comprises the data, scripts for conducting a multi-dimensional analysis of online news comments and other web registers, as well as comprehensive statistical material as described in 
 
-* Ehret, Katharina, and Maite Taboada. (submitted). “Characterising online news comments: a multi-dimensional cruise through registers on the web”.
+* Ehret, Katharina, and Maite Taboada. (to be submitted). “Characterising online news comments: a multi-dimensional cruise through registers on the web”.
 
 The paper presents a text-linguistic study of the characteristics of online news comments in comparison to other online registers. Online news comments are rather understudied, yet, there has been a sence among researchers and journalists alike that they are like conversation.  A recent article, which compared online news comments to face-to-face conversation and other traditional registers, established that online news comments are best described as instances of written evaluative and argumentative discourse ([Ehret and Taboada 2020](https://www.jbe-platform.com/content/journals/10.1075/rs.19012.ehr)). As a natural next step, the related paper describes the linguistic properties of online news comments in the context of other online registers such as travel blog, personal blog or interactive discussion. 
 
