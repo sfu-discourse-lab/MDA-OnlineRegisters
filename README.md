@@ -1,12 +1,12 @@
 # MDA-OnlineRegisters
 
-#### Supplementary materials for: Characterising online news comments: a multi-dimensional cruise through registers on the web (version 1.0)
+#### Supplementary materials for: Characterising online news comments: a multi-dimensional cruise through online registers (version 1.0)
 
 ### Description
 
 This repository comprises the data, scripts for conducting a multi-dimensional analysis of online news comments and other web registers, as well as comprehensive statistical material as described in 
 
-* Ehret, Katharina, and Maite Taboada. (to be submitted). “Characterising online news comments: a multi-dimensional cruise through registers on the web”.
+* Ehret, Katharina, and Maite Taboada. (to be submitted). “Characterising online news comments: a multi-dimensional cruise through online registers”.
 
 The paper presents a text-linguistic study of the characteristics of online news comments in comparison to other online registers. Online news comments are rather understudied, yet, there has been a sence among researchers and journalists alike that they are like conversation.  A recent article, which compared online news comments to face-to-face conversation and other traditional registers, established that online news comments are best described as instances of written evaluative and argumentative discourse ([Ehret and Taboada 2020](https://www.jbe-platform.com/content/journals/10.1075/rs.19012.ehr)). As a natural next step, the related paper describes the linguistic properties of online news comments in the context of other online registers such as travel blog, personal blog or interactive discussion. 
 
@@ -19,11 +19,11 @@ The dataset published in this repository orginates from the [*Simon Fraser Unive
 This csv contains the unrotated eigenvalues which were calculated based on the correlation matrix of normalised feature frequencies.
 * factorScores.csv
 
-This csv contains the factor scores of a four factor solution for each of the individual texts in the dataset. The first column contains the file names.
+This csv contains the factor scores of a three factor solution for each of the individual texts in the dataset. The first column contains the file names.
 
 * loadings.csv
 
-The feature loadings of each feature on each factor in the four factor solution. The first column lists the feature tags (see POS-tag_description.csv, for a description of the features).
+The feature loadings of each linguistic feature on each factor in the three factor solution. The first column lists the feature tags (see POS-tag_description.csv, for a description of the features). Loadings were rounded to three decimal places.
 
 * meanFactorScores.csv
 
@@ -39,11 +39,11 @@ This csv contains the raw feature frequencies of 67 lexico-grammatical features 
 
 * postag_description.csv
 
-A list of 67 lexico-grammatical features. The first column provides the tag, the second column gives a brief description of the feature.
+A list of 67 lexico-grammatical features. The first column provides the part-of-speech tag, the second column gives a brief description of the feature.
 
 * sd_meanFactorScores.csv
 
-The standard deviation of the mean factor scores per register.
+The standard deviation of the mean factor scores per register. 
 
 * factor_analysis.r
 
@@ -51,7 +51,11 @@ The r script containing the commands for conducting factor analysis (multi-dimen
 
 * texts_by_register.csv
 
-A list of all individual texts in (first column) and information on their register (second column). 
+A list of all individual texts (first column) and information on their register (second column). Note that short register labels are used.
+
+*register_labels.csv
+
+A csv file containing all register labels of the analysed registers: the original label used in CORE, the CORE file prefix, a long label which is used in graphs and tables throughout the related publication, and a short label which is used in csv files. 
 
 
 
