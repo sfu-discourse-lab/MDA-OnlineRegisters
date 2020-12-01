@@ -36,7 +36,7 @@ A csv containing the mean factor scores for each register in the dataset. The me
 
 * normalized_postag_counts.csv
 
-This csv contains normalised feature frequencies of 67 lexico-grammatical features (see postag_description) which were automatically retrieved from each text in the dataset. The frequencies were normalised per 1000 word tokens. This csv serves as input for the factor analysis.
+This csv contains normalised feature frequencies of 67 lexico-grammatical features (see postag_description) which were automatically retrieved from each text in the dataset. The frequencies were normalised per 1000 word tokens. This csv serves as input for the factor analysis. The file is zipped, because it is rather large.
 
 * postag_counts.csv
 
