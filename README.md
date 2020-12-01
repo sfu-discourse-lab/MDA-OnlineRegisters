@@ -17,6 +17,11 @@ The dataset published in this repository orginates from the [*Simon Fraser Unive
 * eigenvalues.csv
 
 This csv contains the unrotated eigenvalues which were calculated based on the correlation matrix of normalised feature frequencies.
+
+* factor_analysis.r
+
+The r script containing the commands for conducting factor analysis (multi-dimensional analysis) and other statistics as described in the related publication. 
+
 * factorScores.csv
 
 This csv contains the factor scores of a three factor solution for each of the individual texts in the dataset. The first column contains the file names.
@@ -41,21 +46,17 @@ This csv contains the raw feature frequencies of 67 lexico-grammatical features 
 
 A list of 67 lexico-grammatical features. The first column provides the part-of-speech tag, the second column gives a brief description of the feature.
 
+*register_labels.csv
+
+A csv file containing all register labels of the analysed registers: the original label used in CORE, the CORE file prefix, a long label which is used in graphs and tables throughout the related publication, and a short label which is used in csv files. 
+
 * sd_meanFactorScores.csv
 
 The standard deviation of the mean factor scores per register. 
 
-* factor_analysis.r
-
-The r script containing the commands for conducting factor analysis (multi-dimensional analysis) and other statistics as described in the related publication. 
-
 * texts_by_register.csv
 
 A list of all individual texts (first column) and information on their register (second column). Note that short register labels are used.
-
-*register_labels.csv
-
-A csv file containing all register labels of the analysed registers: the original label used in CORE, the CORE file prefix, a long label which is used in graphs and tables throughout the related publication, and a short label which is used in csv files. 
 
 
 
