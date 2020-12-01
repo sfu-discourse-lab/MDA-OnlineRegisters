@@ -1,0 +1,68 @@
+tag,niceLabels
+AMP,Amplifiers
+ANDC,Non-phrasal coordination
+AWL,Average word length
+BEMA,BE main verb
+BYPA,BY passive
+CAUS,Subordinator cause
+CONC,Subordinator concession
+COND,Subordinator condition
+CONJ,Conjuncts
+CONT,Contractions
+DEMO,Demonstratives
+DEMP,Demonstrative pronoun
+DPAR,Discourse particles
+DWNT,Downtoners
+EMPH,Emphatics
+EX,Existential THERE
+FPP1,1st ps. pronouns
+GER,Gerunds
+HDG,Hedges
+INPR,Indef. Pronouns
+JJ,Adjectives attributive
+NEMD,Modals necessity
+NN,Nouns
+NOMZ,Nominalisations
+OSUB,Subordinator other
+PASS,Agentless passives
+PASTP,Past participle clauses
+PEAS,Perfect aspect
+PHC,Phrasal coordination
+PIN,Prepositions
+PIRE,Pied-piping relatives
+PIT,Pronoun IT
+PLACE,Place adverbials
+POMD,Modals possibility
+PRED,Adjectives predicative
+PRESP,Present participal clauses
+PRIV,Private verbs
+PRMD,Modals predicitive
+PROD,DO pro-verb
+PUBV,Public verbs
+RB,Adverbs
+SERE,Sentence relatives
+SMP,SEEM/APPEAR
+SPAU,Split auxiliaries
+SPIN,Split infinitives
+SPP2,2nd ps. pronouns
+STPR,Stranded prepositions
+SUAV,Suasive verbs
+SYNE,Synthetic negation
+THAC,THAT adjective complements
+THATD,THAT deletion
+THVC,THAT verb complements
+TIME,Time adverbials
+TO,Infinitives
+TOBJ,THAT relatives obj.
+TPP3,3rd ps. pronouns
+TSUB,THAT relatives subj.
+TTR,Type-token ratio
+VBD,Past tense
+VPRT,Present tense
+WHCL,WH clauses
+WHOBJ,WH relatives obj.
+WHQU,WH questions
+WHSUB,WH relatives subj.
+WZPAST,Past participle WHIZ deletion
+WZPRES,Present participal WHIZ deletion
+XX0,Analytic negation
