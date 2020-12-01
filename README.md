@@ -46,7 +46,7 @@ This csv contains the raw feature frequencies of 67 lexico-grammatical features 
 
 A list of 67 lexico-grammatical features. The first column provides the part-of-speech tag, the second column gives a brief description of the feature.
 
-*register_labels.csv
+* register_labels.csv
 
 A csv file containing all register labels of the analysed registers: the original label used in CORE, the CORE file prefix, a long label which is used in graphs and tables throughout the related publication, and a short label which is used in csv files. 
 
