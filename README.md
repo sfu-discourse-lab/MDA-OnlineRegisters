@@ -12,7 +12,7 @@ The paper presents a text-linguistic study of the characteristics of online news
 
 The dataset published in this repository orginates from the [*Simon Fraser University opinion and comments corpus*](https://github.com/sfu-discourse-lab/SOCC)  (SOCC) and the [*Corpus of Online Registers of English*](https://www.english-corpora.org/core/) (CORE). The corpus data was annotated with parts-of-speech tags using the Multidimensional Analysis Tagger and all tags were automatically retrieved with a custom-written python script (availabel here https://github.com/sfu-discourse-lab/MDA_project).  See the related publication for details on the dataset and methodology.
 
-### File description and overview (preliminary)
+### File description and overview
 
 * eigenvalues.csv
 
