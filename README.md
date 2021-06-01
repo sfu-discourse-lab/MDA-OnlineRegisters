@@ -2,6 +2,10 @@
 
 #### Supplementary materials for: Characterising online news comments: a multi-dimensional cruise through online registers (version 1.0)
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4885180.svg)](https://doi.org/10.5281/zenodo.4885180)
+
+
 ### Description
 
 This repository comprises the data, scripts for conducting a multi-dimensional analysis of online news comments and other web registers, as well as comprehensive statistical material as described in 
